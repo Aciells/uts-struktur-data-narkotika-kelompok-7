@@ -1,0 +1,701 @@
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+P001,nomorPerkara,10/Pid.Sus/2020/PN Smg,putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,pengadilan,Pengadilan Negeri Semarang,putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,tanggalPutusan,2020-03-09,putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,terdakwaKode,Terdakwa-001,putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,jenisNarkotika,Metamfetamina (sabu),putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,"2–3, 31–32, 35–37",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,beratBarangBuktiGram,6.59856,putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,"2–3, 31–32, 35–37",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,pasalDakwaan,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,"2–3, 31–32, 35–37",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,36–37,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,tuntutanBulan,96,putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,2–3,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,vonisBulan,84,putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,36–37,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,dendaRupiah,1000000000,putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,36–37,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,barangBukti,"Beberapa plastik klip berisi serbuk kristal sabu, timbangan digital, plastik klip kosong, alat hisap sabu, korek api, kartu ATM, handphone, dan tube urine",putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,"2–3, 31–32, 35–37",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkotika.,putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,36,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P001,keadaanMeringankan,Terdakwa masih berusia muda dan masih dapat diharapkan memperbaiki kelakuannya.,putusan_10_pid.sus_2020_pn_smg_20261108144443.pdf,36,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,nomorPerkara,90/Pid.Sus/2020/PN Smg,putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,pengadilan,Pengadilan Negeri Semarang,putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,tanggalPutusan,2020-03-19,putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,terdakwaKode,Terdakwa-002,putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,jenisNarkotika,Metamfetamina (sabu),putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,Identitas: 1; tuntutan: 2; dakwaan dan barang bukti: 3–6; pertimbangan: 22; amar: 22–23,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,beratBarangBuktiGram,0.26051,putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,Identitas: 1; tuntutan: 2; dakwaan dan barang bukti: 3–6; pertimbangan: 22; amar: 22–23,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,pasalDakwaan,Pasal 114 ayat (1) dan Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,Identitas: 1; tuntutan: 2; dakwaan dan barang bukti: 3–6; pertimbangan: 22; amar: 22–23,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,22–23,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,tuntutanBulan,72,putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,2,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,vonisBulan,60,putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,22–23,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,dendaRupiah,800000000,putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,22–23,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,barangBukti,"Plastik klip berisi serbuk kristal sabu, tube urine, sepeda motor Suzuki Satria FU, dan celana panjang jeans",putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,Identitas: 1; tuntutan: 2; dakwaan dan barang bukti: 3–6; pertimbangan: 22; amar: 22–23,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pencegahan dan pemberantasan penyalahgunaan serta peredaran gelap narkotika.,putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,22,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P002,keadaanMeringankan,Terdakwa mengakui terus terang perbuatannya dan menyesali perbuatannya.,putusan_90_pid.sus_2020_pn_smg_20261108150917.pdf,22,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,nomorPerkara,91/Pid.Sus/2020/PN Smg,putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,pengadilan,Pengadilan Negeri Semarang,putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,tanggalPutusan,2020-05-18,putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,terdakwaKode,Terdakwa-003,putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,jenisNarkotika,Metamfetamina (sabu),putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,4–7,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,beratBarangBuktiGram,0.25653,putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,4–7,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,pasalDakwaan,Pasal 132 ayat (1) jo. Pasal 114 ayat (1) dan Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,4–7,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,34–35,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,tuntutanBulan,72,putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,2–3,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,vonisBulan,60,putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,34–35,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,dendaRupiah,800000000,putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,34–35,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,barangBukti,"Plastik klip berisi sabu, plastik pembungkus, handphone Oppo, sepeda motor Honda Beat, tas kecil, pipet kaca, sedotan plastik, korek api gas, dan buku catatan",putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,4–7,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,keadaanMemberatkan,Perbuatan terdakwa sangat merugikan diri sendiri dan meresahkan masyarakat serta tidak mendukung program pemerintah dalam pemberantasan narkoba.,putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,33,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P003,keadaanMeringankan,"Terdakwa masih muda, mengakui dan menyesali perbuatannya, berjanji tidak mengulangi perbuatannya, belum pernah dihukum, dan mempunyai tanggungan keluarga.",putusan_91_pid.sus_2020_pn_smg_20261108143344.pdf,33,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,nomorPerkara,93/Pid.Sus/2020/PN Smg,putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,pengadilan,Pengadilan Negeri Semarang,putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,tanggalPutusan,2020-04-27,putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,terdakwaKode,Terdakwa-004,putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,jenisNarkotika,Metamfetamina (sabu),putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,beratBarangBuktiGram,0.25856,putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) dan Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,2–5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,pasalTerbukti,Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,23–24,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,tuntutanBulan,72,putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,Identitas: 1; tuntutan dan dakwaan: 2–5; berat: 5; pertimbangan: 22; amar: 23–24,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,vonisBulan,72,putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,23–24,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,dendaRupiah,800000000,putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,23–24,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,barangBukti,"Plastik klip berisi sabu dengan berat bersih 0,25856 gram, handphone Oppo, sepeda motor Honda Vario, bungkus rokok Marlboro, dan tube urine",putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam penanggulangan penyalahgunaan narkotika.,putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,22,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P004,keadaanMeringankan,"Terdakwa mengakui dan menyesali perbuatannya, bersikap sopan di persidangan, dan belum pernah dihukum.",putusan_93_pid.sus_2020_pn_smg_20261108145852.pdf,22,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,nomorPerkara,94/Pid.Sus/2020/PN Smg,putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,pengadilan,Pengadilan Negeri Semarang,putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,tanggalPutusan,2020-04-08,putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,terdakwaKode,Terdakwa-005,putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,jenisNarkotika,Metamfetamina (sabu),putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,beratBarangBuktiGram,0.25856,putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) dan Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,2–5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,pasalTerbukti,Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,23–24,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,tuntutanBulan,72,putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,Identitas: 1; tuntutan dan dakwaan: 2–5; berat: 5; pertimbangan: 22; amar: 23–24,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,vonisBulan,72,putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,23–24,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,dendaRupiah,800000000,putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,23–24,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,barangBukti,"Plastik klip berisi sabu dengan berat bersih 0,25856 gram, handphone, sepeda motor Honda Vario, bungkus rokok Marlboro, dan tube urine",putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam penanggulangan penyalahgunaan narkotika.,putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,22,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P005,keadaanMeringankan,"Terdakwa mengakui dan menyesali perbuatannya, bersikap sopan di persidangan, dan belum pernah dihukum.",putusan_94_pid.sus_2020_pn_smg_20261108145802.pdf,22,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,nomorPerkara,107/Pid.Sus/2023/PN Smg,putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,pengadilan,Pengadilan Negeri Semarang,putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,tanggalPutusan,2023-05-03,putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,terdakwaKode,Terdakwa-006A dan Terdakwa-006B,putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,jenisNarkotika,Metamfetamina (sabu),putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,"6, 8–9, 49",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,beratBarangBuktiGram,1.35173,putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,"6, 8–9, 49",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,pasalDakwaan,Pasal 132 ayat (1) jo. Pasal 114 ayat (1) UU No. 35 Tahun 2009; subsidair Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,3–9,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,48–49.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,tuntutanBulan,66,putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,2–3,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,vonisBulan,66,putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,48–49.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,dendaRupiah,1000000000,putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,48–49.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,barangBukti,"Tujuh paket sabu dalam dua kelompok barang bukti dengan berat total 1,35173 gram, satu handphone Infinix Hot 9, timbangan digital, satu bendel plastik klip kosong, dua tube urine, dan satu sepeda motor Honda Beat.",putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,"6, 8–9, 49",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam mendukung pemberantasan narkoba. Terdakwa sudah pernah dihukum.,putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,48,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P006,keadaanMeringankan,"Terdakwa bersikap sopan, mengakui terus terang perbuatannya, menyesali perbuatannya, dan berjanji tidak akan mengulanginya.",putusan_107_pid.sus_2022_pn_smg_20261108154023.pdf,48,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,nomorPerkara,114/Pid.Sus/2020/PN Smg,putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,pengadilan,Pengadilan Negeri Semarang,putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,tanggalPutusan,2020-05-06,putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,terdakwaKode,Terdakwa-007,putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,jenisNarkotika,Metamfetamina (sabu),putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,5–6,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,beratBarangBuktiGram,0.33237,putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,5–6,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 (Primair); Pasal 112 ayat (1) jo. Pasal 132 ayat (1) (Subsidair),putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,3–5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,pasalTerbukti,Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,23–24.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,tuntutanBulan,66,putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,2,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,vonisBulan,48,putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,23–24.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,dendaRupiah,800000000,putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,23–24.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,barangBukti,"Satu plastik klip kecil berisi sabu dalam pecahan keramik berisolasi hitam dengan berat netto 0,33237 gram, satu handphone Oppo A9 warna hitam, dan satu sepeda motor Honda warna hitam.",putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,5–6,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pemberantasan peredaran gelap narkotika; menimbulkan keresahan masyarakat; memberikan peluang terjadinya peredaran gelap narkotika.,putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,23,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P007,keadaanMeringankan,"Terdakwa belum pernah dihukum, bersikap sopan di persidangan, mengakui terus terang perbuatannya, menyesal, dan berjanji tidak mengulangi perbuatannya.",putusan_114_pid.sus_2020_pn_smg_20261108143903.pdf,23,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,nomorPerkara,116/Pid.Sus/2020/PN Smg,putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,pengadilan,Pengadilan Negeri Semarang,putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,tanggalPutusan,2020-04-07,putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,terdakwaKode,Terdakwa-008,putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,jenisNarkotika,Metamfetamina (sabu),putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,5–6,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,beratBarangBuktiGram,0.38954,putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,5–6,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,pasalDakwaan,"Pasal 132 ayat (1) jo. Pasal 114 ayat (1) (Primair); Pasal 132 ayat (1) jo. Pasal 112 ayat (1) (Subsidair), UU No. 35 Tahun 2009",putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,4–6,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,pasalTerbukti,null — terdapat ketidaksesuaian antara rumusan amar halaman 40 dan dasar hukum yang dicantumkan. Perlu pemeriksaan lebih lanjut.,putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,40–42.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,tuntutanBulan,66,putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,2–3,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,vonisBulan,48,putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,40–42.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,dendaRupiah,800000000,putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,40–42.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,barangBukti,"Satu kantong plastik klip kecil berisi serbuk kristal sabu dengan berat netto 0,38954 gram, handphone Samsung J2 Prime warna gold, satu tube urine terdakwa, sepeda motor Yamaha Mio J, dan kartu ATM BRI.",putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,5–6,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,keadaanMemberatkan,"Perbuatan terdakwa bertentangan dengan program pemerintah dalam pemberantasan peredaran gelap narkotika, menimbulkan keresahan masyarakat, dan memberikan peluang terjadinya peredaran gelap narkotika.",putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,40,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P008,keadaanMeringankan,"Terdakwa belum pernah dihukum, bersikap sopan di persidangan, mengakui perbuatannya, menyesal, dan berjanji tidak mengulangi perbuatannya.",putusan_116_pid.sus_2020_pn_smg_20261108150654.pdf,40,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,nomorPerkara,117/Pid.Sus/2020/PN Smg,putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,pengadilan,Pengadilan Negeri Semarang,putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,tanggalPutusan,2020-04-07,putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,terdakwaKode,Terdakwa-009,putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,jenisNarkotika,Metamfetamina (sabu),putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,"5–6, 24",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,beratBarangBuktiGram,0.38954,putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,"5–6, 24",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,pasalDakwaan,"Pasal 114 ayat (1) jo. Pasal 132 ayat (1) (Pertama); Pasal 112 ayat (1) jo. Pasal 132 ayat (2) (Kedua), UU No. 35 Tahun 2009",putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,3–6,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,pasalTerbukti,Pasal 112 ayat (1) jo. Pasal 132 ayat (2) UU No. 35 Tahun 2009,putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,24–25.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,tuntutanBulan,66,putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,2,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,vonisBulan,48,putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,24–25.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,dendaRupiah,800000000,putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,24–25.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,barangBukti,"Satu kantong plastik klip berisi serbuk kristal sabu dengan berat netto 0,38954 gram, handphone Samsung J2 Prime, sepeda motor Yamaha Mio J, dan satu tube urine terdakwa.",putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,"5–6, 24",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam usaha memberantas peredaran narkotika.,putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,23–24,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P009,keadaanMeringankan,"Terdakwa mengakui dan menyesali perbuatannya, tidak mempersulit jalannya persidangan, serta bersikap sopan di persidangan.",putusan_117_pid.sus_2020_pn_smg_20261108150728.pdf,23–24,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,nomorPerkara,118/Pid.Sus/2020/PN Smg,putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,pengadilan,Pengadilan Negeri Semarang,putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,tanggalPutusan,2020-04-07,putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,terdakwaKode,Terdakwa-010,putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,jenisNarkotika,Metamfetamina (sabu),putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,"6, 24",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,beratBarangBuktiGram,0.38954,putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,"6, 24",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,pasalDakwaan,"Pasal 132 ayat (1) jo. Pasal 114 ayat (1) (Primair); Pasal 112 ayat (1) jo. Pasal 132 ayat (1) (Subsidair), UU No. 35 Tahun 2009",putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,3–6,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,pasalTerbukti,Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,27.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,tuntutanBulan,66,putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,2,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,vonisBulan,48,putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,27.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,dendaRupiah,800000000,putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,27.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,barangBukti,"Satu kantong plastik klip berisi serbuk kristal sabu dengan berat netto 0,38954 gram, satu tube urine terdakwa, handphone Samsung J2 Prime, dan sepeda motor Yamaha Mio J yang digunakan dalam perkara terkait.",putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,"6, 24",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung pemerintah dalam usaha memberantas peredaran narkotika.,putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,26,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P010,keadaanMeringankan,"Terdakwa mengakui dan menyesali perbuatannya, tidak mempersulit jalannya persidangan, serta bersikap sopan dalam persidangan.",putusan_118_pid.sus_2020_pn_smg_20261108145444.pdf,26,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,nomorPerkara,122/Pid.Sus/2020/PN Smg,putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,pengadilan,Pengadilan Negeri Semarang,putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,tanggalPutusan,2020-05-14,putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,terdakwaKode,Terdakwa-011,putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,1,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,jenisNarkotika,Metamfetamina (sabu),putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,beratBarangBuktiGram,"1,16376 gram + 0,25499 gram..",putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 (Primair); Pasal 112 ayat (1) UU No. 35 Tahun 2009 (Subsidair),putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,2–5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,27–28,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,tuntutanBulan,90,putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,Identitas: 1; dakwaan: 2–5; berat laboratorium: 5; pembuktian: 27–28; pertimbangan: 28; amar: 29–30.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,vonisBulan,72,putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,29–30.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,dendaRupiah,1000000000,putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,29–30.,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,barangBukti,"Dua paket sabu dalam sedotan plastik biru, satu paket sabu dalam isolasi hitam, handphone Samsung warna hitam, timbangan digital, satu tube urine, dan sepeda motor Yamaha Vixion warna merah putih.",putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,5,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkotika.,putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,28,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P011,keadaanMeringankan,Terdakwa mengakui dan menyesali perbuatannya serta belum pernah dihukum.,putusan_122_pid.sus_2020_pn_smg_20261108144732.pdf,28,Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,nomorPerkara,128/Pid.Sus/2020/PN Smg,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,pengadilan,Pengadilan Negeri Semarang,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,tanggalPutusan,2020-05-19,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,terdakwaKode,Terdakwa-012A,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,jenisNarkotika,Metamfetamina (sabu),putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,beratBarangBuktiGram,0.03241,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,pasalDakwaan,Primair: Pasal 132 ayat (1) jo. Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika. Subsidair: Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,pasalTerbukti,Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,tuntutanBulan,72,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,vonisBulan,60,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,dendaRupiah,800000000,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,barangBukti,1 kantong plastik klip kecil berisi sabu dalam bungkus bekas permen Tolak Angin; 1 handphone Redmi 6 warna silver; 1 tube urine milik terdakwa; 1 unit sepeda motor Honda Beat hitam nomor polisi H 5614 AQW.,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan narkotika.,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P012,keadaanMeringankan,Terdakwa menyesali perbuatannya; terdakwa tidak berbelit-belit dan mengakui terus terang perbuatannya sehingga memperlancar proses persidangan.,putusan_128_pid.sus_2020_pn_smg_20261108145103.pdf,"1–6, 32–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,nomorPerkara,129/Pid.Sus/2020/PN Smg,putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,pengadilan,Pengadilan Negeri Semarang,putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,tanggalPutusan,2020-05-12,putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,terdakwaKode,Terdakwa-013A,putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,jenisNarkotika,Metamfetamina (sabu),putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,beratBarangBuktiGram,0.33836,putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,pasalDakwaan,Primair: Pasal 132 ayat (1) jo. Pasal 114 ayat (1). Subsidair: Pasal 132 jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,pasalTerbukti,Pasal 132 jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,tuntutanBulan,72,putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,vonisBulan,60,putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,dendaRupiah,800000000,putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,barangBukti,"1 kantong plastik klip kecil berisi sabu 0,33836 gram; HP Redmi 4A warna gold; ATM BCA; alat hisap sabu dari botol bekas; potongan sedotan runcing; tube urine terdakwa.",putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,keadaanMemberatkan,Tidak mendukung program pemerintah dalam penanggulangan narkotika; perbuatannya meresahkan masyarakat.,putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P013,keadaanMeringankan,Bersikap sopan; mengakui dan menyesali perbuatannya; berjanji tidak mengulangi; belum pernah dihukum.,putusan_129_pid.sus_2020_pn_smg_20261108143519.pdf,"1–2, 24–26",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,nomorPerkara,151/Pid.Sus/2020/PN Smg,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,pengadilan,Pengadilan Negeri Semarang,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,tanggalPutusan,2020-05-04,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,terdakwaKode,Terdakwa-014A,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,jenisNarkotika,Metamfetamina (sabu),putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,beratBarangBuktiGram,0.51811,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,pasalDakwaan,Primair: Pasal 114 ayat (1) jo. Pasal 132 ayat (1). Subsidair: Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,pasalTerbukti,Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,tuntutanBulan,60,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,vonisBulan,48,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,dendaRupiah,800000000,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,barangBukti,2 buah sedotan putih dan 1 tube urine terdakwa.,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas penyalahgunaan narkotika.,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P014,keadaanMeringankan,Menyesali perbuatannya; belum pernah dihukum; mengakui terus terang sehingga memperlancar persidangan.,putusan_151_pid.sus_2020_pn_smg_20261108145149.pdf,"1–3, 7, 49–51",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,nomorPerkara,152/Pid.Sus/2020/PN Smg,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,pengadilan,Pengadilan Negeri Semarang,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,tanggalPutusan,2020-05-05,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,terdakwaKode,Terdakwa-015A,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,jenisNarkotika,Metamfetamina (sabu),putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,beratBarangBuktiGram,0.51811,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,pasalDakwaan,Primair: Pasal 132 ayat (1) jo. Pasal 114 ayat (1). Subsidair: Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,tuntutanBulan,60,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,vonisBulan,48,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,dendaRupiah,800000000,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,barangBukti,1 isolasi hitam berisi plastik klip kecil berisi sabu; 1 HP Samsung Galaxy warna hitam; 1 tube urine terdakwa.,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas penyalahgunaan narkotika.,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P015,keadaanMeringankan,Menyesali perbuatannya; belum pernah dihukum; mengakui terus terang sehingga memperlancar persidangan.,putusan_152_pid.sus_2020_pn_smg_20261108145418.pdf,"1–2, 5, 35–38",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,nomorPerkara,153/Pid.Sus/2020/PN Smg,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,pengadilan,Pengadilan Negeri Semarang,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,tanggalPutusan,2020-06-09,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,terdakwaKode,Terdakwa-016A,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,jenisNarkotika,Metamfetamina (sabu),putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,beratBarangBuktiGram,0.25217,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,pasalDakwaan,Primair: Pasal 132 ayat (1) jo. Pasal 114 ayat (1). Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,tuntutanBulan,60,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,vonisBulan,54,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,dendaRupiah,800000000,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,barangBukti,1 plastik klip kecil berisi sabu terbungkus isolasi hitam; 1 lembar struk setoran Bank BCA; 1 HP OPPO A5S warna hitam; 1 tube urine; 1 unit sepeda motor Yamaha Jupiter Z warna silver.,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,keadaanMemberatkan,Tidak mendukung program pemerintah dalam upaya pemberantasan narkotika; terdakwa pernah dijatuhi pidana beberapa kali.,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P016,keadaanMeringankan,Berlaku sopan selama persidangan; mengakui dan menyesali perbuatannya.,putusan_153_pid.sus_2020_pn_smg_20261108143804.pdf,"1–5, 30, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,nomorPerkara,163/Pid.Sus/2025/PN Smg,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,pengadilan,Pengadilan Negeri Semarang,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,tanggalPutusan,2025-07-24,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,terdakwaKode,Terdakwa-017A,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,jenisNarkotika,Ganja,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,beratBarangBuktiGram,2.68285,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,pasalTerbukti,Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,tuntutanBulan,60,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,vonisBulan,48,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,dendaRupiah,1000000000,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,barangBukti,1 paket daun tanaman dan biji ganja dibungkus kertas putih; 1 tas ransel biru; 1 HP Redmi 9A warna dark grey; 1 tube urine terdakwa.,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran gelap narkotika.,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P017,keadaanMeringankan,Terdakwa berterus terang atas perbuatannya; terdakwa menyesali perbuatannya.,putusan_163_pid.sus_2025_pn_smg_20261104155314.pdf,"1–8, 21–22, 30–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,nomorPerkara,165/Pid.Sus/2018/PN Smg,putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,pengadilan,Pengadilan Negeri Semarang,putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,tanggalPutusan,2018-05-23,putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,terdakwaKode,Terdakwa-018A,putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,jenisNarkotika,Metamfetamina (sabu),putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,beratBarangBuktiGram,0.606,putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,pasalDakwaan,Primair: Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika. Subsidair: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika.,putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,tuntutanBulan,36,putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,vonisBulan,36,putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,dendaRupiah,,putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,barangBukti,"2 paket sabu dalam plastik klip kecil dibungkus tisu dan plastik kresek hitam dengan berat 0,540 gram; 1 paket sabu dalam plastik klip kecil sisa pemakaian dengan berat 0,066 gram; 1 set bong dari botol air mineral Aqua; 1 HP Samsung warna putih; 1 korek api gas motif hijau; 1 potong celana jeans biru; 1 dompet cokelat; 1 botol urine terdakwa.",putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan penyalahgunaan narkotika; perbuatan terdakwa dapat memicu peredaran gelap narkotika; perbuatan terdakwa meresahkan masyarakat.,putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P018,keadaanMeringankan,Terdakwa mengakui perbuatannya dan kooperatif selama persidangan sehingga memperlancar jalannya persidangan; terdakwa menyesali perbuatannya dan berjanji tidak akan mengulangi lagi; terdakwa belum pernah dihukum.,putusan_165_pid.sus_2018_pn_smg_20261104154607.pdf,"1–3, 11–23",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,nomorPerkara,170/Pid.Sus/2025/PN Smg,putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,pengadilan,Pengadilan Negeri Semarang,putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,tanggalPutusan,2025-06-17,putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,terdakwaKode,Terdakwa-019A,putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,jenisNarkotika,Metamfetamina (sabu),putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,beratBarangBuktiGram,4.78299,putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,pasalDakwaan,Primair: Pasal 114 ayat (2) jo. Pasal 55 ayat (1) ke-1 KUHP.,putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. Pasal 55 ayat (1) ke-1 KUHP,putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,tuntutanBulan,72,putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,vonisBulan,60,putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,dendaRupiah,1000000000,putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,barangBukti,5 paket plastik klip berisi serbuk kristal sabu; timbangan digital; pipet kaca; kantong plastik hitam; HP Vivo.,putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat; bertentangan dengan program pemerintah dalam pemberantasan kejahatan narkotika.,putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P019,keadaanMeringankan,"Terdakwa mengakui terus terang perbuatannya; merasa bersalah, menyesali perbuatannya, dan berjanji tidak mengulangi lagi.",putusan_170_pid.sus_2025_pn_smg_20261104155217.pdf,"1–3, 45–50",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,nomorPerkara,196/Pid.Sus/2025/PN Smg,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,pengadilan,Pengadilan Negeri Semarang,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,tanggalPutusan,2025-07-21,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,terdakwaKode,Terdakwa-020A,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,jenisNarkotika,Tembakau sintetis,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,beratBarangBuktiGram,1.91168,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009.,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,tuntutanBulan,84,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,vonisBulan,66,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,dendaRupiah,800000000,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,barangBukti,"1 plastik klip kecil berisi irisan daun tembakau sintetis dengan berat bersih 1,91168 gram; 1 bandel kertas sigaret merek ROYO; 1 HP OPPO warna ungu; 1 sepeda motor Honda Beat hitam.",putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung pemberantasan penyalahgunaan narkotika; terdakwa pernah dijatuhi hukuman pidana.,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P020,keadaanMeringankan,Terdakwa mengakui perbuatannya dan kooperatif selama persidangan; menyesali perbuatannya dan berjanji tidak mengulangi lagi.,putusan_196_pid.sus_2025_pn_smg_20261104155252.pdf,"1–2, 28–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,nomorPerkara,203/Pid.Sus/2025/PN Smg,putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,pengadilan,Pengadilan Negeri Semarang,putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,tanggalPutusan,2025-07-23,putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,terdakwaKode,Terdakwa-021A,putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,jenisNarkotika,Metamfetamina (sabu),putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,beratBarangBuktiGram,0.33452,putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009.,putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,tuntutanBulan,84,putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,vonisBulan,72,putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,dendaRupiah,1000000000,putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,barangBukti,"1 HP Infinix Smart 9 warna hitam; 2 plastik klip kecil berisi sabu dengan berat bersih masing-masing 0,12159 gram dan 0,21293 gram; 1 tube urine terdakwa.",putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran gelap narkotika; terdakwa pernah dihukum.,putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P021,keadaanMeringankan,Terdakwa mengakui kesalahan dan kooperatif dalam mengikuti persidangan; terdakwa merupakan tulang punggung keluarga.,putusan_203_pid.sus_2025_pn_smg_20261104155326.pdf,"1–3, 6, 21–25, 32–33",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,nomorPerkara,238/Pid.Sus/2025/PN Smg,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,pengadilan,Pengadilan Negeri Semarang,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,tanggalPutusan,2025-08-05,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,terdakwaKode,Terdakwa-022A,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,jenisNarkotika,Metamfetamina (sabu),putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,beratBarangBuktiGram,0.61961,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009.,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,tuntutanBulan,78,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,vonisBulan,72,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,dendaRupiah,1000000000,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,barangBukti,1 plastik klip kecil berisi sabu terbungkus tisu putih dan isolasi hitam dalam bungkus POTATOQ; 1 tube urine; 1 sepeda motor Honda Spacy merah; 1 HP Xiaomi warna biru.,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkotika; terdakwa pernah dihukum dalam perkara yang sama; perbuatannya dapat merusak generasi muda.,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P022,keadaanMeringankan,Terdakwa bersikap sopan di persidangan; mengakui terus terang perbuatannya; menyesali perbuatannya.,putusan_238_pid.sus_2025_pn_smg_20261104155228.pdf,"1–8, 20, 24–27",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,nomorPerkara,241/Pid.Sus/2025/PN Smg,putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,pengadilan,Pengadilan Negeri Semarang,putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,tanggalPutusan,2025-09-11,putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,terdakwaKode,Terdakwa-023A,putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,jenisNarkotika,Metamfetamina (sabu),putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,beratBarangBuktiGram,0.863,putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009 jo. Pasal 55 ayat (1) ke-1 KUHP. Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009 jo. Pasal 55 ayat (1) ke-1 KUHP.,putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 jo. Pasal 55 ayat (1) ke-1 KUHP,putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,tuntutanBulan,90,putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,vonisBulan,72,putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,dendaRupiah,1000000000,putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,barangBukti,"3 paket sabu dengan berat bersih total 0,86300 gram; 1 timbangan digital warna silver; 1 isolasi hitam; 2 pak plastik klip bening; urine dalam tube; uang tunai Rp400.000; 1 HP Infinix warna hijau.",putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung upaya pemerintah dalam pemberantasan narkotika; terdakwa sudah pernah dihukum.,putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P023,keadaanMeringankan,Terdakwa mengakui dan menyesali perbuatannya.,putusan_241_pid.sus_2025_pn_smg_20261104155352.pdf,"1–5, 18–20",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,nomorPerkara,249/Pid.Sus/2023/PN Smg,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,pengadilan,Pengadilan Negeri Semarang,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,tanggalPutusan,2023-07-17,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,terdakwaKode,Terdakwa-024A,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,jenisNarkotika,Metamfetamina (sabu),putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,beratBarangBuktiGram,0.84504,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,pasalDakwaan,Primair: Pasal 132 ayat (1) jo. Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,tuntutanBulan,60,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,vonisBulan,60,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,dendaRupiah,1000000000,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,barangBukti,2 paket sabu dalam plastik klip bening; 1 pipet kaca; 1 potongan sedotan hitam; 1 HP Vivo warna biru.,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah tentang pemberantasan narkotika.,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P024,keadaanMeringankan,Terdakwa mengaku terus terang dan bersikap sopan di persidangan; mengaku bersalah dan berjanji tidak mengulangi lagi; belum pernah dihukum.,putusan_249_pid.sus_2023_pn_smg_20261104154444.pdf,"2–4, 30–31",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,nomorPerkara,250/Pid.Sus/2023/PN Smg,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,pengadilan,Pengadilan Negeri Semarang,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,tanggalPutusan,2023-07-17,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,terdakwaKode,Terdakwa-025A,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,jenisNarkotika,Metamfetamina (sabu),putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,beratBarangBuktiGram,,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,pasalDakwaan,Primair: Pasal 132 ayat (1) jo. Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,tuntutanBulan,60,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,vonisBulan,,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,dendaRupiah,800000000,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,barangBukti,1 HP Realme C17 warna biru; 1 bungkus rokok Dunhill hitam berisi 4 paket sabu dalam plastik klip bening; 2 paket sabu dalam plastik klip bening dililit lakban merah; 1 timbangan digital warna silver; 2 pak plastik klip bening.,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah tentang pemberantasan narkotika.,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P025,keadaanMeringankan,Terdakwa mengaku terus terang dan bersikap sopan di persidangan; mengaku bersalah dan berjanji tidak mengulangi lagi; belum pernah dihukum.,putusan_250_pid.sus_2023_pn_smg_20261104154457.pdf,"1–4, 33–35",Firdausy Ilmi Febiyanti,Marcello Airlangga Saputra,verified
+P026,nomorPerkara,257/Pid.Sus/2025/PN Smg,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,pengadilan,Pengadilan Negeri Semarang,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,tanggalPutusan,2025-08-27,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,terdakwaKode,Terdakwa-026A,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,jenisNarkotika,Metamfetamina (sabu),putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,beratBarangBuktiGram,7.40932,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,pasalDakwaan,Primair: Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. Pasal 55 ayat (1) ke-1 KUHP.,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,tuntutanBulan,84,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,vonisBulan,60,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,dendaRupiah,1000000000,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,barangBukti,1 tube urine.,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung pemerintah dalam pemberantasan narkotika.,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P026,keadaanMeringankan,Terdakwa masih muda dan diharapkan masih bisa memperbaiki perbuatannya; mengakui terus terang dan menyesali perbuatannya; belum pernah dihukum.,putusan_257_pid.sus_2025_pn_smg_20261104155337.pdf,"1–3, 21–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,nomorPerkara,260/Pid.Sus/2023/PN Smg,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,pengadilan,Pengadilan Negeri Semarang,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,tanggalPutusan,2023-07-20,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,terdakwaKode,Terdakwa-027A,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,jenisNarkotika,Metamfetamina (sabu),putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,beratBarangBuktiGram,4.79158,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,pasalDakwaan,Alternatif: Pasal 114 ayat (2) UU No. 35 Tahun 2009 atau Pasal 112 ayat (2) UU No. 35 Tahun 2009.,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,tuntutanBulan,78,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,vonisBulan,60,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,dendaRupiah,1000000000,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,barangBukti,Timbangan digital warna hitam merek Pocket Scale; 1 bungkus bekas rokok Gudang Garam Signature berisi 2 paket sabu; 1 HP OPPO putih gold; 1 botol plastik berisi urine.,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan narkotika; terdakwa pernah dihukum dalam kasus narkotika.,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P027,keadaanMeringankan,Terdakwa mengakui dan menyesali perbuatannya; terdakwa masih mempunyai tanggungan keluarga.,putusan_260_pid.sus_2023_pn_smg_20261104155833.pdf,"1–6, 15–21, 22–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,nomorPerkara,269/Pid.Sus/2023/PN Smg,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,pengadilan,Pengadilan Negeri Semarang,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,tanggalPutusan,2023-07-18,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,terdakwaKode,Terdakwa-028A,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,jenisNarkotika,Metamfetamina (sabu),putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,beratBarangBuktiGram,0.33252,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009.,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,pasalTerbukti,Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,tuntutanBulan,54,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,vonisBulan,54,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,dendaRupiah,800000000,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,barangBukti,1 bungkus bekas permen Kiss berisi 1 plastik klip kecil berisi sabu yang dibungkus isolasi hitam; 1 HP Xiaomi Redmi Note 10 5G warna biru; uang tunai Rp130.000; 1 sepeda motor Yamaha Mio GT putih nomor polisi H 2602 KQ beserta STNK.,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan narkotika.,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P028,keadaanMeringankan,Terdakwa bersikap sopan di persidangan; mengaku terus terang sehingga tidak menyulitkan jalannya persidangan; menyesali perbuatannya.,putusan_269_pid.sus_2023_pn_smg_20261104154701.pdf,"1–6, 19–23",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,nomorPerkara,329/Pen.Pid.Sus/2018/PN Smg,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,pengadilan,Pengadilan Negeri Semarang,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,tanggalPutusan,,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,terdakwaKode,Terdakwa-029A,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,jenisNarkotika,Metamfetamina (sabu),putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,beratBarangBuktiGram,,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,pasalDakwaan,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,tuntutanBulan,66,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,vonisBulan,66,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,dendaRupiah,800000000,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,barangBukti,Plastik klip kecil berisi sabu; pipet bekas pakai; serok kecil dari sedotan; korek api gas; kotak plastik berisi plastik klip bekas; sedotan plastik; amplop berisi plastik klip kosong; bong dari botol C1000; iPhone; tube urine terdakwa.,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan narkotika.,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P029,keadaanMeringankan,Terdakwa menyesali perbuatannya; masih muda; belum pernah dihukum; menjadi tulang punggung keluarga.,putusan_329_pid.sus_2018_pn_smg_20261104155416.pdf,"1–2, 4–6, 14–16",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,nomorPerkara,356/Pid.Sus/2023/PN Smg,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,pengadilan,Pengadilan Negeri Semarang,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,tanggalPutusan,2023-12-11,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,terdakwaKode,Terdakwa-030A,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,jenisNarkotika,Metamfetamina (sabu),putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,beratBarangBuktiGram,5.00195,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,pasalDakwaan,Primair: Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 112 ayat (2) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009.,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,tuntutanBulan,84,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,vonisBulan,72,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,dendaRupiah,1000000000,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,barangBukti,20 plastik klip transparan berisi sabu; handphone Samsung biru; tube urine; serta barang bukti lain yang berkaitan dengan perkara.,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkotika; terdakwa pernah dihukum dalam perkara yang sama.,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P030,keadaanMeringankan,Terdakwa mengakui perbuatannya dan berjanji tidak mengulangi; bersikap sopan dan terus terang; merupakan tulang punggung keluarga.,putusan_356_pid.sus_2023_pn_smg_20261104154411.pdf,"1–7, 24–27, 34–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,nomorPerkara,393/Pid.Sus/2025/PN Smg,putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,pengadilan,Pengadilan Negeri Semarang,putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,tanggalPutusan,2025-10-15,putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,terdakwaKode,Terdakwa-031A,putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,jenisNarkotika,Metamfetamina (sabu),putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,beratBarangBuktiGram,0.29046,putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009.,putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,tuntutanBulan,82,putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,vonisBulan,72,putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,dendaRupiah,1000000000,putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,barangBukti,"Plastik klip kecil berisi sabu dengan berat bersih 0,29046 gram; handphone; timbangan digital; bungkus rokok; celana; tube urine.",putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan narkotika.,putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P031,keadaanMeringankan,"Terdakwa mengakui perbuatannya, menyesali perbuatannya, dan bersikap sopan selama persidangan.",putusan_393_pid.sus_2025_pn_smg_20261027115536.pdf,"1–6, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,nomorPerkara,431/Pid.Sus/2026/PN Smg,putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,pengadilan,Pengadilan Negeri Semarang,putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,tanggalPutusan,2026-10-15,putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,terdakwaKode,Terdakwa-032A,putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,jenisNarkotika,Metamfetamina (sabu),putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,beratBarangBuktiGram,6.27372,putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,pasalDakwaan,Primair: Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026.,putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,tuntutanBulan,90,putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,vonisBulan,72,putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,dendaRupiah,400000000,putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,barangBukti,"1 paket sabu dengan berat bersih 4,76364 gram; 8 paket sabu dalam sedotan ungu dengan berat bersih total 1,51008 gram; plastik klip; timbangan digital; alat hisap; pipet; sedotan; isolasi; kardus; tube urine; handphone.",putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan narkotika; perbuatan terdakwa berdampak buruk terhadap masyarakat dan generasi muda.,putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P032,keadaanMeringankan,Terdakwa bersikap sopan dan berterus terang di persidangan.,putusan_431_pid.sus_2026_pn_smg_20261028204055.pdf,"1–8, 24, 31–37",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,nomorPerkara,450/Pid.Sus/2025/PN Smg,putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,pengadilan,Pengadilan Negeri Semarang,putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,tanggalPutusan,2025-11-19,putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,terdakwaKode,Terdakwa-033A,putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,jenisNarkotika,Metamfetamina (sabu),putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,beratBarangBuktiGram,0.22819,putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,pasalDakwaan,Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009.,putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,tuntutanBulan,72,putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,vonisBulan,60,putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,dendaRupiah,800000000,putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,barangBukti,"Plastik klip berisi sabu 0,19479 gram; celana jeans pendek biru; handphone Vivo Y17; timbangan digital; isolasi hitam; pipet kaca; korek gas; alat hisap; tube urine.",putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,keadaanMemberatkan,Terdakwa pernah melakukan tindak pidana; pernah dijatuhi pidana; telah menikmati hasil perbuatannya.,putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P033,keadaanMeringankan,Terdakwa menyesali perbuatannya.,putusan_450_pid.sus_2025_pn_smg_20261104155240.pdf,"1–5, 7–12, 18–19, 28–31",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,nomorPerkara,464/Pid.Sus/2025/PN Smg,putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,pengadilan,Pengadilan Negeri Semarang,putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,tanggalPutusan,2025-12-04,putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,terdakwaKode,Terdakwa-034A,putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,jenisNarkotika,Metamfetamina (sabu),putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,beratBarangBuktiGram,1.23283,putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009.,putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,tuntutanBulan,66,putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,vonisBulan,60,putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,dendaRupiah,1000000000,putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,barangBukti,"Empat paket sabu dengan berat bersih 0,24876 gram, 0,24946 gram, 0,51566 gram, dan 0,21895 gram; tas selempang hitam; handphone Samsung Galaxy A15; bong; korek gas; sedotan plastik; tube urine; sepeda motor Honda Scoopy putih.",putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran gelap narkotika.,putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P034,keadaanMeringankan,Terdakwa berterus terang atas perbuatannya dan menyesali perbuatannya.,putusan_464_pid.sus_2025_pn_smg_20261108143039.pdf,"1–5, 7–18, 20–33, 38–44",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,nomorPerkara,477/Pid.Sus/2022/PN Smg,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,pengadilan,Pengadilan Negeri Semarang,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,tanggalPutusan,2022-10-26,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,terdakwaKode,Terdakwa-035A,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,jenisNarkotika,Metamfetamina (sabu),putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,beratBarangBuktiGram,22.8,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,pasalDakwaan,Primair: Pasal 114 ayat (2) UU No. 35 Tahun 2009. Subsidair: Pasal 112 ayat (2) UU No. 35 Tahun 2009.,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,tuntutanBulan,102,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,vonisBulan,84,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,dendaRupiah,2700000000,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,barangBukti,Puluhan paket sabu dalam plastik klip dengan isolasi warna kuning dan merah; HP Vivo; timbangan digital; plastik klip kosong; alat hisap; uang tunai; tube urine; sepeda motor Yamaha Mio merah.,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,keadaanMemberatkan,Perbuatan terdakwa melawan program pemerintah dalam memerangi narkoba; terdakwa pernah dihukum.,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P035,keadaanMeringankan,Terdakwa menyesali perbuatannya dan berjanji tidak mengulanginya; terdakwa merupakan tulang punggung keluarga.,putusan_477_pid.sus_2022_pn_smg_20261104154733.pdf,"1–9, 16–24",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,nomorPerkara,530/Pid.Sus/2023/PN Smg,putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,pengadilan,Pengadilan Negeri Semarang,putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,tanggalPutusan,2023-12-11,putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,terdakwaKode,Terdakwa-036A,putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,jenisNarkotika,Metamfetamina (sabu),putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,beratBarangBuktiGram,0.27982,putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009.,putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,tuntutanBulan,68,putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,vonisBulan,60,putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,dendaRupiah,1000000000,putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,barangBukti,"Plastik klip kecil berisi sabu dalam bungkus makanan ringan Slai Olai warna biru dengan sisa berat bersih 0,27982 gram; HP Redmi 10A hitam; tube urine; sepeda motor Yamaha Mio merah hitam beserta STNK.",putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam memerangi peredaran narkoba; terdakwa pernah dihukum dalam perkara yang sama.,putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P036,keadaanMeringankan,Terdakwa mengakui dan berjanji tidak mengulangi perbuatannya; bersikap sopan dan terus terang di persidangan; merupakan tulang punggung keluarga.,putusan_530_pid.sus_2023_pn_smg_20261104154346.pdf,"1–7, 20–27",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,nomorPerkara,575/Pid.Sus/2022/PN Smg,putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,pengadilan,Pengadilan Negeri Semarang,putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,tanggalPutusan,2023-01-17,putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,terdakwaKode,Terdakwa-037A,putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,jenisNarkotika,Metamfetamina (sabu),putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,beratBarangBuktiGram,2.45116,putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009.,putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,tuntutanBulan,66,putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,vonisBulan,66,putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,dendaRupiah,1400000000,putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,barangBukti,"3 plastik klip kecil berisi sabu dengan berat bersih keseluruhan 2,30398 gram; 1 plastik klip kecil berisi sabu dengan berat bersih 0,05958 gram; bong; pipet kaca berisi sabu dengan berat bersih 0,0876 gram; tube urine; handphone Vivo V5; uang tunai Rp500.000; plastik klip kosong dan kertas buram.",putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan narkotika.,putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P037,keadaanMeringankan,Terdakwa menyesali perbuatannya; masih muda dan diharapkan dapat memperbaiki diri; belum pernah dihukum; satu-satunya tulang punggung keluarga; tidak terlibat jaringan narkotika internasional; belum menikmati hasil kejahatannya.,putusan_575_pid.sus_2022_pn_smg_20261104155910.pdf,"1–7, 18–21",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,nomorPerkara,661/Pid.Sus/2022/PN Smg,putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,pengadilan,Pengadilan Negeri Semarang,putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,tanggalPutusan,2023-03-09,putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,terdakwaKode,Terdakwa-038A,putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,jenisNarkotika,Metamfetamina (sabu),putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,beratBarangBuktiGram,1667.2,putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,pasalDakwaan,Primair: Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 112 ayat (2) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009.,putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,tuntutanBulan,120,putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,vonisBulan,96,putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,dendaRupiah,5000000000,putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,barangBukti,"6 paket sabu dalam plastik transparan dengan berat bersih 1.667,2 gram; 2 pigura; kardus cokelat; karpet; 33 pakaian; 3 celana; 3 kain sprei; resi pengiriman; fotokopi paspor atas nama Atika; HP Realme biru; tube urine; HP Vivo biru milik saksi yang dikembalikan kepada pemiliknya.",putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,keadaanMemberatkan,Perbuatan terdakwa sangat meresahkan masyarakat; tidak mendukung program pemerintah di bidang pemberantasan narkotika.,putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P038,keadaanMeringankan,Terdakwa masih muda dan masih dapat diharapkan berkelakuan baik setelah menjalani pidana; mengaku bersalah dan berjanji tidak mengulangi perbuatannya.,putusan_661_pid.sus_2022_pn_smg_20261104154719.pdf,"1–14, 89–95, 100–104",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,nomorPerkara,740/Pid.Sus/2019/PN Smg,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,pengadilan,Pengadilan Negeri Semarang,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,tanggalPutusan,2020-01-02,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,terdakwaKode,Terdakwa-039A,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,jenisNarkotika,Metamfetamina (sabu),putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,beratBarangBuktiGram,0.23115,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,pasalDakwaan,Primair: Pasal 132 jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,pasalTerbukti,Pasal 132 jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,tuntutanBulan,60,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,vonisBulan,60,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,dendaRupiah,800000000,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,barangBukti,2 paket sabu dalam plastik klip kecil; 1 HP Evercoss merah; 1 sendok sabu dari potongan sedotan putih; urine sekitar 25 cc.,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas peredaran narkotika; perbuatannya dapat merusak diri sendiri dan generasi muda.,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P039,keadaanMeringankan,Terdakwa menyesali perbuatannya; belum pernah dihukum; bersikap sopan di persidangan.,putusan_740_pid.sus_2019_pn_smg_20261104154803.pdf,"1–5, 26–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,nomorPerkara,767/Pid.Sus/2021/PN Smg,putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,pengadilan,Pengadilan Negeri Semarang,putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,tanggalPutusan,2022-02-02,putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,terdakwaKode,Terdakwa-040A dan Terdakwa-040B,putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,jenisNarkotika,Metamfetamina (sabu),putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,beratBarangBuktiGram,0.2437,putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,pasalDakwaan,Primair: Pasal 132 ayat (1) jo. Pasal 114 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009. Alternatif kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009.,putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,tuntutanBulan,54,putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,vonisBulan,48,putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,dendaRupiah,800000000,putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,barangBukti,"1 klip kecil berisi sabu dalam potongan sedotan plastik merah dengan berat bersih 0,24370 gram; 2 tube urine; 1 HP Vivo merah; 1 kartu ATM BCA; 1 sepeda motor Honda Beat putih.",putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,keadaanMemberatkan,Perbuatan para terdakwa bertentangan dengan program pemerintah dalam memberantas penyalahgunaan narkotika.,putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P040,keadaanMeringankan,Para terdakwa mengaku bersalah dan menyesali perbuatannya; belum pernah dihukum; memberikan keterangan tidak berbelit-belit sehingga mempermudah persidangan.,putusan_767_pid.sus_2021_pn_smg_20261108150516.pdf,"1–6, 31–35",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,nomorPerkara,776/Pid.Sus/2021/PN Smg,putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,pengadilan,Pengadilan Negeri Semarang,putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,tanggalPutusan,2022-02-15,putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,terdakwaKode,"Terdakwa-041A, Terdakwa-041B, dan Terdakwa-041C",putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,jenisNarkotika,Metamfetamina (sabu),putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,beratBarangBuktiGram,0.08809,putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,pasalDakwaan,Alternatif pertama: Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009. Alternatif kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 jo. Pasal 55 ayat (1) ke-1 KUHP.,putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 jo. Pasal 55 ayat (1) ke-1 KUHP,putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,tuntutanBulan,42,putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,vonisBulan,30,putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,dendaRupiah,,putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,barangBukti,"Sisa sabu dalam pipet kaca dan alat hisap (bong) dengan berat 0,08809 gram; 3 tube urine milik masing-masing terdakwa.",putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,keadaanMemberatkan,Perbuatan para terdakwa tidak mendukung program pemerintah dalam memberantas peredaran gelap narkotika dan obat-obatan terlarang.,putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P041,keadaanMeringankan,"Para terdakwa mengakui terus terang perbuatannya, merasa bersalah, dan menyesal; belum pernah dihukum; masih dapat diharapkan memperbaiki diri.",putusan_776_pid.sus_2021_pn_smg_20261108152854.pdf,"1–6, 19–22",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,nomorPerkara,780/Pid.Sus/2021/PN Smg,putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,pengadilan,Pengadilan Negeri Semarang,putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,tanggalPutusan,2022-02-09,putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,terdakwaKode,Terdakwa-042A,putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,jenisNarkotika,Metamfetamina (sabu),putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,beratBarangBuktiGram,6.73433,putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,pasalDakwaan,Pertama: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Kedua: Pasal 112 ayat (2) UU No. 35 Tahun 2009.,putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,pasalTerbukti,Pasal 112 ayat (2) UU No. 35 Tahun 2009,putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,tuntutanBulan,96,putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,vonisBulan,72,putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,dendaRupiah,2000000000,putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,barangBukti,"3 paket sabu berlakban putih masing-masing sekitar 1 gram; 4 paket sabu berlakban putih masing-masing sekitar 0,5 gram; 1 paket sabu berlakban hitam sekitar 0,5 gram; 2 plastik klip kecil berisi sabu; 2 pipet kaca; bungkus rokok LA Menthol; HP OPPO Reno 4F silver; celana jeans biru; timbangan digital; 2 bendel plastik klip kosong; kartu ATM BCA; tube urine; sepeda motor Honda Beat Street hitam.",putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah yang sedang giat memberantas peredaran narkotika; terdakwa pernah dihukum dalam perkara yang sama.,putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P042,keadaanMeringankan,Terdakwa bersikap sopan di muka persidangan; mengakui terus terang perbuatannya; menyesali perbuatannya; berjanji tidak akan mengulangi perbuatannya lagi.,putusan_780_pid.sus_2021_pn_smg_20261108150044.pdf,"1–6, 26–29",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,nomorPerkara,785/Pid.Sus/2021/PN Smg,putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,pengadilan,Pengadilan Negeri Semarang,putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,tanggalPutusan,2022-02-09,putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,terdakwaKode,Terdakwa-043A,putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,jenisNarkotika,Metamfetamina (sabu),putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,beratBarangBuktiGram,117.82,putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,pasalDakwaan,Primair: Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,tuntutanBulan,102,putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,vonisBulan,90,putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,dendaRupiah,3500000000,putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,barangBukti,Paket sabu dalam kardus paket PARAMA; paket sabu dalam kardus handphone; paket sabu dalam kardus paket Shopee; timbangan digital; 8 bendel plastik klip kecil; sedotan runcing; lakban hitam; solasi cokelat dan hijau; 50 sedotan transparan bergaris biru; bong dari botol bekas pakan ikan; pipet kaca; korek gas; tube urine; HP Redmi 6A; kartu ATM; celana pendek jeans; tas selempang; sepeda motor Suzuki Satria FU hitam.,putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,keadaanMemberatkan,"Perbuatan terdakwa bertentangan dengan program pemerintah yang gencar memberantas peredaran narkoba, khususnya di Jawa Tengah, serta merusak moral generasi muda; terdakwa pernah dihukum sebelumnya.",putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P043,keadaanMeringankan,"Terdakwa berterus terang dan berlaku sopan di persidangan sehingga memperlancar jalannya persidangan; merasa bersalah, menyesali perbuatannya, dan berjanji tidak mengulangi lagi; belum pernah dihukum.",putusan_785_pid.sus_2021_pn_smg_20261108152755.pdf,"1–8, 29–33",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,nomorPerkara,787/Pid.Sus/2021/PN Smg,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,pengadilan,Pengadilan Negeri Semarang,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,tanggalPutusan,2022-02-03,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,terdakwaKode,Terdakwa-044A,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,jenisNarkotika,Ganja,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,beratBarangBuktiGram,764.74492,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Subsidiair: Pasal 111 ayat (1) UU No. 35 Tahun 2009.,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,pasalTerbukti,Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,tuntutanBulan,72,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,vonisBulan,72,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,dendaRupiah,1500000000,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,barangBukti,Ganja dalam bungkus kertas; wadah bedak La Tulipe; aluminium foil; plastik hitam; plastik bening; rice cooker Cosmos; kotak kayu; kaleng vape; plastik klip; timbangan digital; lakban hitam; solasi bening; gunting; cutter; kardus paket dengan nomor resi 440730006695821; uang tunai Rp925.000; HP OPPO putih; HP iPhone hitam; tube urine.,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,keadaanMemberatkan,Perbuatan terdakwa melawan program pemerintah dalam pemberantasan peredaran gelap narkotika; Indonesia sedang dalam keadaan darurat narkoba.,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P044,keadaanMeringankan,Terdakwa bersikap sopan; belum pernah dihukum; mengakui terus terang perbuatannya sehingga memperlancar persidangan; menyesali perbuatannya.,putusan_787_pid.sus_2021_pn_smg_20261108150053.pdf,"1–10, 33–36",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,nomorPerkara,798/Pid.Sus/2021/PN Smg,putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,pengadilan,Pengadilan Negeri Semarang,putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,tanggalPutusan,2022-02-09,putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,terdakwaKode,Terdakwa-045A,putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,jenisNarkotika,Metamfetamina (sabu),putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,beratBarangBuktiGram,117.82,putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,pasalDakwaan,Primair: Pasal 132 ayat (1) jo. Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,tuntutanBulan,108,putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,vonisBulan,84,putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,dendaRupiah,2000000000,putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,barangBukti,"Paket sabu dalam bungkus rokok Lucky Strike kode 1, 2, dan 3; paket sabu dalam bungkus rokok Marlboro kode 4; paket sabu kode 5; beberapa bungkus rokok dan plastik klip; HP Xiaomi Redmi 6 warna biru; kartu debit ATM CIMB Niaga; tas pinggang biru; sepeda motor Suzuki Smash hitam; KTP terdakwa.",putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,keadaanMemberatkan,Terdakwa tidak mendukung program pemerintah dalam memberantas peredaran ilegal narkotika dan obat-obatan terlarang.,putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P045,keadaanMeringankan,"Terdakwa mengakui perbuatannya, merasa bersalah, dan menyesal; tidak berbelit-belit serta menerangkan terus terang sehingga memperlancar persidangan; mempunyai tanggungan nafkah istri dan anak-anak yang masih kecil.",putusan_798_pid.sus_2021_pn_smg_20261108152530.pdf,"1–12, 73–77",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,nomorPerkara,802/Pid.Sus/2021/PN Smg,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,pengadilan,Pengadilan Negeri Semarang,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,tanggalPutusan,2022-02-17,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,terdakwaKode,Terdakwa-046A,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,jenisNarkotika,Metamfetamina (sabu),putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,beratBarangBuktiGram,0.81823,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,pasalDakwaan,Dakwaan kesatu primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009. Dakwaan kesatu subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009. Dakwaan kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009.,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,pasalTerbukti,Dakwaan kesatu primair Pasal 114 ayat (1) dan dakwaan kedua Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,tuntutanBulan,78,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,vonisBulan,66,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,dendaRupiah,2000000000,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,barangBukti,9 paket sabu yang dibungkus solasi hitam; paket sabu yang ditemukan di lima lokasi peletakan; 1 HP OPPO A31 hijau; sepeda motor Honda Beat hitam; alat hisap sabu; pipet kaca; barang bukti lain terkait penggunaan sabu.,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan usaha pemerintah dalam pemberantasan tindak pidana narkotika.,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P046,keadaanMeringankan,Terdakwa mengakui terus terang perbuatannya; menyesali perbuatannya dan berjanji tidak mengulangi lagi.,putusan_802_pid.sus_2021_pn_smg_20261108152606.pdf,"1–11, 43–47",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,nomorPerkara,803/Pid.Sus/2021/PN Smg,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,pengadilan,Pengadilan Negeri Semarang,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,tanggalPutusan,2022-02-17,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,terdakwaKode,Terdakwa-047A,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,jenisNarkotika,Metamfetamina (sabu),putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,beratBarangBuktiGram,10.91563,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,pasalDakwaan,Primair: Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,tuntutanBulan,84,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,vonisBulan,72,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,dendaRupiah,1900000000,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,barangBukti,Kaleng Khong Guan merah berisi paket sabu; 1 paket sabu dalam isolasi merah bertuliskan FRAGILE; 6 paket sabu dalam plastik klip berlakban cokelat; 2 paket sabu dalam isolasi putih di dalam kotak mainan SMILE; timbangan digital; plastik klip kosong; sedotan runcing putih dan hijau; korek gas; isolasi hitam; bong; HP Vivo biru; tube urine; sepeda motor Honda Legenda hitam.,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas penyalahgunaan narkotika.,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P047,keadaanMeringankan,Terdakwa berterus terang dan memperlancar jalannya persidangan; menyesal; menjadi tulang punggung keluarga; belum pernah dihukum.,putusan_803_pid.sus_2021_pn_smg_20261108152718.pdf,"1–6, 25–30",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,nomorPerkara,902/Pid.Sus/2019/PN Smg,putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,pengadilan,Pengadilan Negeri Semarang,putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,tanggalPutusan,2020-03-04,putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,terdakwaKode,Terdakwa-048A,putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,jenisNarkotika,Metamfetamina (sabu) dan tablet ekstasi,putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,beratBarangBuktiGram,323.45373,putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,pasalDakwaan,Primair: Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009. Subsidair: Pasal 112 ayat (2) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009.,putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,tuntutanBulan,192,putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,vonisBulan,132,putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,dendaRupiah,2000000000,putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,barangBukti,"Paket sabu kode B 101,64 dengan berat bersih 99,34891 gram; 2 paket sabu dalam kotak cotton bud dengan berat bersih 0,89917 gram; 3 paket sabu dalam bungkus Chitato dengan berat bersih 297,6 gram; 84 tablet ekstasi dengan berat bersih 25,60575 gram; plastik klip; sedotan; sendok; korek api; potongan kaca; 3 bong; 2 timbangan digital; HP Xiaomi Redmi Note 7; kartu debit BCA; tube urine; kotak bekas minuman teh.",putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,keadaanMemberatkan,"Perbuatan terdakwa bertentangan dengan program pemerintah yang sedang giat memberantas narkoba; barang bukti sabu yang disita dari terdakwa seberat 323,45373 gram.",putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P048,keadaanMeringankan,Terdakwa kooperatif; mengakui perbuatannya.,putusan_902_pid.sus_2019_pn_smg_20261108150841.pdf,"1–9, 28–38",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,nomorPerkara,932/Pid.Sus/2019/PN Smg,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,1,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,pengadilan,Pengadilan Negeri Semarang,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,1,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,tanggalPutusan,2020-02-24,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,42,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,terdakwaKode,Terdakwa-049,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,1,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,jenisNarkotika,Metamfetamina (sabu),putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,"2, 38, 40–42",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,beratBarangBuktiGram,0.25278,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,"2, 38, 40–42",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) sebagai dakwaan primair; Pasal 132 ayat (1) jo. Pasal 112 ayat (1) sebagai dakwaan subsidair,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,2–3,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,40–41,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,tuntutanBulan,72,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,2,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,vonisBulan,54,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,41–42,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,dendaRupiah,800000000,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,41–42,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,barangBukti,1 kantong plastik klip kecil berisi sabu yang diisolasi hitam dan dibungkus kain cokelat; 1 kartu ATM BCA; 1 HP merek OPPO warna hitam; 1 tube urine terdakwa,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,"2, 38, 40–42",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pemberantasan peredaran narkoba dan merusak moral generasi muda,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,41,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P049,keadaanMeringankan,Terdakwa berterus terang dan sopan di persidangan; menyesali perbuatannya dan berjanji tidak mengulangi; mempunyai tanggungan keluarga,putusan_932_pid.sus_2019_pn_smg_20261108143850.pdf,41,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,nomorPerkara,938/Pid.Sus/2019/PN Smg,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,1,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,pengadilan,Pengadilan Negeri Semarang,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,1,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,tanggalPutusan,2020-02-12,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,20,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,terdakwaKode,Terdakwa-050,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,1,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,jenisNarkotika,Metamfetamina (sabu),putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,"2, 18–19",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,beratBarangBuktiGram,0.16767,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,"2, 18–19",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) sebagai dakwaan primair; Pasal 112 ayat (1) jo. Pasal 132 ayat (1) sebagai dakwaan subsidair,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,2–3,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,pasalTerbukti,Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,18–19,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,tuntutanBulan,72,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,2,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,vonisBulan,54,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,19–20,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,dendaRupiah,800000000,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,19–20,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,barangBukti,1 kantong plastik klip kecil berisi sabu dalam bekas bungkus permen Relaxa warna biru; 1 HP OPPO F5 warna gold; 1 kartu ATM BCA atas nama Lilis Ria Kholifatun; 1 tube urine terdakwa; 1 sepeda motor Honda Beat nomor polisi H 2817 AXG beserta STNK,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,"2, 18–19",Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat dan bertentangan dengan program pemberantasan narkotika,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,18–19,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
+P050,keadaanMeringankan,Terdakwa bersikap sopan dan kooperatif selama persidangan serta memiliki tanggungan keluarga,putusan_938_pid.sus_2019_pn_smg_20261108151742.pdf,18–19,Marcello Airlangga Saputra,Firdausy Ilmi Febiyanti,verified
