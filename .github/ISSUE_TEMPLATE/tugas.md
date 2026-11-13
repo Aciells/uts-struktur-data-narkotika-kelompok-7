@@ -1,4 +1,3 @@
-
 ---
 name: Tugas
 about: Template untuk membuat tugas proyek
