@@ -1,14 +1,22 @@
 package id.ac.umm.strukturdata.service;
 
 import id.ac.umm.strukturdata.StrukturData;
+import id.ac.umm.strukturdata.audit.AuditLog;
+import id.ac.umm.strukturdata.audit.JenisOperasi;
 import id.ac.umm.strukturdata.model.Putusan;
 
 public class PutusanManager {
 
     private final StrukturData<Putusan> data;
+    private final AuditLog audit;
 
     public PutusanManager(StrukturData<Putusan> data) {
+        this(data, new AuditLog());
+    }
+
+    public PutusanManager(StrukturData<Putusan> data, AuditLog audit) {
         this.data = data;
+        this.audit = audit;
     }
 
     public String ringkasan() {
@@ -27,11 +35,16 @@ public class PutusanManager {
     public void tampil() {
         System.out.print(ringkasan());
     }
+
     public void tambah(Putusan putusan) {
         data.add(putusan);
+        String id = putusan == null ? "(null)" : putusan.caseId();
+        audit.catat(JenisOperasi.TAMBAH, "caseId=" + id);
     }
 
     public Putusan hapus(int index) {
-        return data.remove(index);
+        Putusan dihapus = data.remove(index);
+        audit.catat(JenisOperasi.HAPUS, "posisi=" + index + ", caseId=" + dihapus.caseId());
+        return dihapus;
     }
 }
