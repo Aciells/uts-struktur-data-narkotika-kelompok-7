@@ -133,4 +133,21 @@ public class DynamicArray<T> implements StrukturData<T> {
     public int capacity() {
         return data.length;
     }
+
+    public void validateInvariant() {
+        if (data == null) {
+            throw new IllegalStateException("array data null");
+        }
+        if (data.length <= 0) {
+            throw new IllegalStateException("kapasitas harus > 0");
+        }
+        if (size < 0 || size > data.length) {
+            throw new IllegalStateException("size di luar kapasitas: " + size);
+        }
+        for (int i = size; i < data.length; i++) {
+            if (data[i] != null) {
+                throw new IllegalStateException("slot setelah size harus null, index " + i);
+            }
+        }
+    }
 }
