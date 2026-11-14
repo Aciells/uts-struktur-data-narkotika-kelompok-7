@@ -27,4 +27,11 @@ public class PutusanManager {
     public void tampil() {
         System.out.print(ringkasan());
     }
+    public void tambah(Putusan putusan) {
+        data.add(putusan);
+    }
+
+    public Putusan hapus(int index) {
+        return data.remove(index);
+    }
 }
