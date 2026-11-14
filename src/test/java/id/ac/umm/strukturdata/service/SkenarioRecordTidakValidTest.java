@@ -15,7 +15,6 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.io.TempDir;
 
-/** Panduan 4.1 nomor 7: record tidak valid ditolak, pesan tampil, struktur tetap konsisten. */
 class SkenarioRecordTidakValidTest {
 
     @TempDir
