@@ -111,6 +111,19 @@ public class DynamicArray<T> implements StrukturData<T> {
         return size == 0;
     }
 
+    @Override
+    public boolean contains(T element) {
+        return search(element) != -1;
+    }
+
+    @Override
+    public void clear() {
+        for (int i = 0; i < size; i++) {
+            data[i] = null;
+        }
+        size = 0;
+    }
+
     private void checkIndex(int index) {
         if (index < 0 || index >= size) {
             throw new IndexOutOfBoundsException(
@@ -132,5 +145,22 @@ public class DynamicArray<T> implements StrukturData<T> {
 
     public int capacity() {
         return data.length;
+    }
+
+    public void validateInvariant() {
+        if (data == null) {
+            throw new IllegalStateException("array data null");
+        }
+        if (data.length <= 0) {
+            throw new IllegalStateException("kapasitas harus > 0");
+        }
+        if (size < 0 || size > data.length) {
+            throw new IllegalStateException("size di luar kapasitas: " + size);
+        }
+        for (int i = size; i < data.length; i++) {
+            if (data[i] != null) {
+                throw new IllegalStateException("slot setelah size harus null, index " + i);
+            }
+        }
     }
 }
