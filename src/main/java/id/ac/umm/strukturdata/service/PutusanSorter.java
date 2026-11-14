@@ -33,6 +33,17 @@ public class PutusanSorter {
         }
         return salinan;
     }
+    public String ringkasanTerurut(boolean naik) {
+        DynamicArray<Putusan> terurut = urutkanByVonis(naik);
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < terurut.size(); i++) {
+            Putusan p = terurut.get(i);
+            sb.append(i + 1).append(". ").append(p.caseId()).append(" | vonis ")
+                    .append(p.vonisBulan() > 0 ? p.vonisBulan() + " bln" : "(kosong)")
+                    .append('\n');
+        }
+        return sb.toString();
+    }
 
     private boolean harusSebelum(Putusan a, Putusan b, boolean naik) {
         langkah++;
