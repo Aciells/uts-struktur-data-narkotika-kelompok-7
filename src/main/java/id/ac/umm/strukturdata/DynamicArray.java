@@ -111,6 +111,19 @@ public class DynamicArray<T> implements StrukturData<T> {
         return size == 0;
     }
 
+    @Override
+    public boolean contains(T element) {
+        return search(element) != -1;
+    }
+
+    @Override
+    public void clear() {
+        for (int i = 0; i < size; i++) {
+            data[i] = null;
+        }
+        size = 0;
+    }
+
     private void checkIndex(int index) {
         if (index < 0 || index >= size) {
             throw new IndexOutOfBoundsException(
