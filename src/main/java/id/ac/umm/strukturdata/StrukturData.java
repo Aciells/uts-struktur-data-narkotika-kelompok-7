@@ -10,4 +10,6 @@ public interface StrukturData<T> {
     int search(T element);
     int size();
     boolean isEmpty();
+    boolean contains(T element);
+    void clear();
 }
