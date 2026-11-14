@@ -3,7 +3,7 @@
 `DynamicArray` berbasis array, jadi tidak ada pointer. Yang berubah adalah posisi elemen
 (pergeseran) dan `size`. Kode `remove(index)`:
 
-```java
+``` java
 for (int i = index; i < size - 1; i++) { data[i] = data[i + 1]; }
 data[size - 1] = null;
 size--;
