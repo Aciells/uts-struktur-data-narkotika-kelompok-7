@@ -2,13 +2,22 @@ package id.ac.umm.strukturdata.service;
 
 import id.ac.umm.strukturdata.DynamicArray;
 import id.ac.umm.strukturdata.StrukturData;
+import id.ac.umm.strukturdata.audit.AuditLog;
+import id.ac.umm.strukturdata.audit.JenisOperasi;
 import id.ac.umm.strukturdata.model.Putusan;
 
 public class PutusanSorter {
     private final StrukturData<Putusan> data;
+    private final AuditLog audit;
     private int langkah;
+
     public PutusanSorter(StrukturData<Putusan> data) {
+        this(data, new AuditLog());
+    }
+
+    public PutusanSorter(StrukturData<Putusan> data, AuditLog audit) {
         this.data = data;
+        this.audit = audit;
     }
 
     public int getLangkah() {
@@ -31,8 +40,11 @@ public class PutusanSorter {
             }
             salinan.set(j + 1, kunci);
         }
+        audit.catat(JenisOperasi.URUT, "vonis " + (naik ? "naik" : "turun")
+                + ", jumlah=" + salinan.size() + ", langkah=" + langkah);
         return salinan;
     }
+
     public String ringkasanTerurut(boolean naik) {
         DynamicArray<Putusan> terurut = urutkanByVonis(naik);
         StringBuilder sb = new StringBuilder();
