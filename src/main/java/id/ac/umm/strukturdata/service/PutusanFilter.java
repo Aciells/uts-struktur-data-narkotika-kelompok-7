@@ -31,8 +31,9 @@ public class PutusanFilter {
     }
 
     public PutusanFilter beratGram(double min, double max) {
-        return dan("berat " + min + "-" + max + " gram",
-                p -> p.beratBarangBuktiGram() >= min && p.beratBarangBuktiGram() <= max);
+        return dan("berat " + min + " sampai " + max + " gram",
+                p -> p.beratBarangBuktiGram() > 0
+                        && p.beratBarangBuktiGram() >= min && p.beratBarangBuktiGram() <= max);
     }
 
     public PutusanFilter pasalTerbukti(String pasal) {
@@ -43,8 +44,8 @@ public class PutusanFilter {
     }
 
     public PutusanFilter vonisBulan(int min, int max) {
-        return dan("vonis " + min + "-" + max + " bln",
-                p -> p.vonisBulan() >= min && p.vonisBulan() <= max);
+        return dan("vonis " + min + " sampai " + max + " bulan",
+                p -> p.vonisBulan() > 0 && p.vonisBulan() >= min && p.vonisBulan() <= max);
     }
 
     public DynamicArray<Putusan> hasil() {
